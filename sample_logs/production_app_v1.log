@@ -1,0 +1,1000 @@
+2026-08-09T09:00:00 INFO api Request completed status=200 latency=779ms
+2026-08-09T09:00:03 DEBUG api Cache lookup completed key=user:39256
+2026-08-09T09:00:04 ERROR api Upstream service returned status=503
+2026-08-09T09:00:03 ERROR worker Failed to process job job_id=job-9935
+2026-08-09T09:00:04 ERROR api Database connection failed
+2026-08-09T09:00:20 INFO api Request completed status=200 latency=50ms
+2026-08-09T09:00:06 DEBUG api Cache lookup completed key=user:40495
+2026-08-09T09:00:07 ERROR api Timeout connecting to Redis
+2026-08-09T09:00:16 ERROR api Upstream service returned status=503
+2026-08-09T09:00:36 DEBUG api Cache lookup completed key=user:68878
+2026-08-09T09:00:30 INFO api Request completed status=200 latency=797ms
+2026-08-09T09:00:22 ERROR api Upstream service returned status=503
+2026-08-09T09:00:48 WARNING api High latency detected latency=304ms
+2026-08-09T09:00:26 DEBUG api Cache lookup completed key=user:54118
+2026-08-09T09:00:14 INFO api Request completed status=201 latency=409ms
+2026-08-09T09:00:15 WARNING api High latency detected latency=887ms
+2026-08-09T09:00:48 ERROR api Database connection failed
+2026-08-09T09:00:51 INFO api Request completed status=200 latency=767ms
+2026-08-09T09:01:12 ERROR api Timeout connecting to Redis
+2026-08-09T09:00:19 WARNING worker Queue depth above threshold depth=25
+2026-08-09T09:01:00 ERROR worker Failed to process job job_id=job-6925
+2026-08-09T09:00:42 ERROR api Upstream service returned status=503
+2026-08-09T09:00:22 INFO api Request completed status=200 latency=697ms
+2026-08-09T09:00:46 DEBUG worker Queue depth=25
+2026-08-09T09:00:48 INFO api Request completed status=201 latency=409ms
+2026-08-09T09:01:15 ERROR api Database connection failed
+2026-08-09T09:01:18 INFO worker Job completed job_id=job-7065 duration=777ms
+2026-08-09T09:00:54 ERROR worker Failed to process job job_id=job-5374
+2026-08-09T09:00:28 ERROR api Database connection failed
+2026-08-09T09:00:58 ERROR api Timeout connecting to Redis
+2026-08-09T09:01:00 INFO worker Job completed job_id=job-8573 duration=827ms
+2026-08-09T09:01:33 ERROR worker Failed to process job job_id=job-4598
+2026-08-09T09:01:36 INFO api Request completed status=200 latency=254ms
+2026-08-09T09:00:33 WARNING api High latency detected latency=430ms
+2026-08-09T09:01:42 INFO api Request completed status=201 latency=236ms
+2026-08-09T09:01:45 DEBUG api Cache lookup completed key=user:95909
+2026-08-09T09:02:24 WARNING worker Queue depth above threshold depth=122
+2026-08-09T09:01:14 DEBUG worker Queue depth=40
+2026-08-09T09:01:16 ERROR api Upstream service returned status=503
+2026-08-09T09:01:57 ERROR api Upstream service returned status=503
+2026-08-09T09:02:40 ERROR api Database connection failed
+2026-08-09T09:02:44 WARNING api High latency detected latency=244ms
+2026-08-09T09:01:24 ERROR api Timeout connecting to Redis
+2026-08-09T09:02:52 INFO api Request completed status=201 latency=793ms
+2026-08-09T09:00:44 INFO api Request completed status=201 latency=176ms
+2026-08-09T09:01:30 ERROR worker Failed to process job job_id=job-7916
+2026-08-09T09:00:46 WARNING worker Queue depth above threshold depth=102
+2026-08-09T09:03:08 ERROR api Timeout connecting to Redis
+2026-08-09T09:02:24 ERROR api Timeout connecting to Redis
+2026-08-09T09:00:49 ERROR worker Failed to process job job_id=job-2876
+2026-08-09T09:02:30 ERROR worker Failed to process job job_id=job-6573
+2026-08-09T09:00:51 DEBUG worker Queue depth=116
+2026-08-09T09:01:44 ERROR api Database connection failed
+2026-08-09T09:00:53 ERROR api Upstream service returned status=503
+2026-08-09T09:02:42 ERROR api Timeout connecting to Redis
+2026-08-09T09:01:50 ERROR api Timeout connecting to Redis
+2026-08-09T09:00:56 ERROR worker Failed to process job job_id=job-5889
+2026-08-09T09:01:54 INFO worker Job completed job_id=job-7126 duration=380ms
+2026-08-09T09:00:58 ERROR api Database connection failed
+2026-08-09T09:02:57 ERROR api Database connection failed
+2026-08-09T09:01:00 INFO api Request completed status=201 latency=391ms
+2026-08-09T09:03:03 DEBUG api Cache lookup completed key=user:17592
+2026-08-09T09:02:04 ERROR api Database connection failed
+2026-08-09T09:01:03 INFO api Request completed status=201 latency=769ms
+2026-08-09T09:04:16 INFO api Request completed status=201 latency=798ms
+2026-08-09T09:02:10 INFO worker Job completed job_id=job-8787 duration=1175ms
+2026-08-09T09:02:12 DEBUG worker Queue depth=140
+2026-08-09T09:04:28 DEBUG api Cache lookup completed key=user:80686
+2026-08-09T09:02:16 ERROR api Upstream service returned status=503
+2026-08-09T09:03:27 WARNING worker Queue depth above threshold depth=100
+2026-08-09T09:04:40 ERROR api Timeout connecting to Redis
+2026-08-09T09:04:44 INFO api Request completed status=201 latency=273ms
+2026-08-09T09:02:24 INFO api Request completed status=201 latency=366ms
+this is not a valid log line
+2026-08-09T09:02:28 ERROR api Database connection failed
+2026-08-09T09:02:30 INFO api Request completed status=200 latency=92ms
+2026-08-09T09:01:16 DEBUG api Cache lookup completed key=user:18834
+2026-08-09T09:01:17 WARNING api High latency detected latency=92ms
+2026-08-09T09:02:36 DEBUG worker Queue depth=129
+2026-08-09T09:02:38 ERROR api Timeout connecting to Redis
+2026-08-09T09:02:40 ERROR api Upstream service returned status=503
+2026-08-09T09:05:24 DEBUG api Cache lookup completed key=user:71993
+2026-08-09T09:05:28 DEBUG api Cache lookup completed key=user:22363
+2026-08-09T09:01:23 ERROR worker Failed to process job job_id=job-8062
+2026-08-09T09:04:12 WARNING worker Queue depth above threshold depth=110
+2026-08-09T09:05:40 ERROR api Upstream service returned status=503
+2026-08-09T09:01:26 ERROR worker Failed to process job job_id=job-2612
+2026-08-09T09:01:27 WARNING worker Queue depth above threshold depth=91
+2026-08-09T09:01:28 DEBUG api Cache lookup completed key=user:35112
+2026-08-09T09:02:58 ERROR api Timeout connecting to Redis
+2026-08-09T09:06:00 INFO worker Job completed job_id=job-7912 duration=425ms
+2026-08-09T09:04:33 ERROR api Database connection failed
+2026-08-09T09:03:04 INFO api Request completed status=201 latency=473ms
+2026-08-09T09:01:33 INFO api Request completed status=200 latency=687ms
+2026-08-09T09:01:34 INFO api Request completed status=201 latency=791ms
+2026-08-09T09:03:10 INFO worker Job completed job_id=job-7658 duration=1044ms
+2026-08-09T09:06:24 DEBUG api Cache lookup completed key=user:62565
+2026-08-09T09:01:37 INFO worker Job completed job_id=job-7209 duration=54ms
+2026-08-09T09:06:32 DEBUG worker Queue depth=121
+2026-08-09T09:04:57 WARNING worker Queue depth above threshold depth=147
+2026-08-09T09:06:40 INFO worker Job completed job_id=job-4111 duration=657ms
+2026-08-09T09:03:22 INFO api Request completed status=200 latency=613ms
+2026-08-09T09:01:42 ERROR api Upstream service returned status=503
+2026-08-09T09:05:09 INFO api Request completed status=200 latency=71ms
+2026-08-09T09:06:56 ERROR api Timeout connecting to Redis
+2026-08-09T09:03:30 INFO api Request completed status=200 latency=540ms
+2026-08-09T09:01:46 INFO worker Job completed job_id=job-2122 duration=1268ms
+2026-08-09T09:01:47 ERROR worker Failed to process job job_id=job-4853
+2026-08-09T09:07:12 INFO api Request completed status=201 latency=603ms
+2026-08-09T09:03:38 ERROR api Database connection failed
+2026-08-09T09:01:50 ERROR api Database connection failed
+2026-08-09T09:01:51 WARNING worker Queue depth above threshold depth=149
+2026-08-09T09:05:36 DEBUG worker Queue depth=57
+2026-08-09T09:05:39 DEBUG api Cache lookup completed key=user:44814
+2026-08-09T09:07:36 INFO worker Job completed job_id=job-5915 duration=986ms
+2026-08-09T09:05:45 INFO api Request completed status=201 latency=29ms
+2026-08-09T09:07:44 ERROR api Database connection failed
+2026-08-09T09:01:57 INFO api Request completed status=201 latency=570ms
+2026-08-09T09:03:56 ERROR api Timeout connecting to Redis
+2026-08-09T09:05:57 INFO worker Job completed job_id=job-6718 duration=190ms
+2026-08-09T09:04:00 WARNING api High latency detected latency=311ms
+2026-08-09T09:04:02 ERROR api Database connection failed
+2026-08-09T09:06:06 ERROR api Database connection failed
+2026-08-09T09:02:03 ERROR worker Failed to process job job_id=job-5905
+2026-08-09T09:02:04 INFO worker Job completed job_id=job-5333 duration=286ms
+2026-08-09T09:02:05 ERROR api Upstream service returned status=503
+2026-08-09T09:04:12 DEBUG worker Queue depth=77
+2026-08-09T09:04:14 ERROR api Upstream service returned status=503
+2026-08-09T09:06:24 DEBUG api Cache lookup completed key=user:93130
+2026-08-09T09:06:27 ERROR api Timeout connecting to Redis
+2026-08-09T09:08:40 DEBUG worker Queue depth=18
+2026-08-09T09:02:11 ERROR worker Failed to process job job_id=job-7939
+2026-08-09T09:06:36 INFO api Request completed status=200 latency=23ms
+2026-08-09T09:06:39 INFO worker Job completed job_id=job-5291 duration=380ms
+2026-08-09T09:08:56 ERROR api Timeout connecting to Redis
+2026-08-09T09:09:00 ERROR api Timeout connecting to Redis
+2026-08-09T09:02:16 INFO api Request completed status=201 latency=97ms
+2026-08-09T09:04:34 ERROR api Timeout connecting to Redis
+2026-08-09T09:02:18 WARNING api High latency detected latency=616ms
+2026-08-09T09:04:38 WARNING worker Queue depth above threshold depth=37
+2026-08-09T09:02:20 DEBUG worker Queue depth=98
+2026-08-09T09:02:21 WARNING api High latency detected latency=235ms
+2026-08-09T09:04:44 ERROR worker Failed to process job job_id=job-2684
+2026-08-09T09:07:09 ERROR api Timeout connecting to Redis
+2026-08-09T09:09:36 ERROR api Database connection failed
+2026-08-09T09:04:50 DEBUG api Cache lookup completed key=user:31299
+2026-08-09T09:04:52 WARNING worker Queue depth above threshold depth=11
+2026-08-09T09:04:54 ERROR api Upstream service returned status=503
+2026-08-09T09:07:24 WARNING worker Queue depth above threshold depth=68
+2026-08-09T09:07:27 INFO worker Job completed job_id=job-2771 duration=833ms
+2026-08-09T09:02:30 ERROR api Database connection failed
+2026-08-09T09:05:02 DEBUG api Cache lookup completed key=user:70332
+2026-08-09T09:07:36 DEBUG worker Queue depth=63
+2026-08-09T09:05:06 INFO api Request completed status=200 latency=695ms
+2026-08-09T09:05:08 WARNING worker Queue depth above threshold depth=89
+2026-08-09T09:07:45 INFO api Request completed status=201 latency=811ms
+2026-08-09T09:07:48 WARNING api High latency detected latency=676ms
+2026-08-09T09:10:28 ERROR worker Failed to process job job_id=job-9785
+2026-08-09T09:07:54 INFO api Request completed status=200 latency=138ms
+2026-08-09T09:07:57 INFO worker Job completed job_id=job-5349 duration=128ms
+2026-08-09T09:02:40 ERROR api Database connection failed
+2026-08-09T09:10:44 WARNING api High latency detected latency=766ms
+2026-08-09T09:08:06 WARNING worker Queue depth above threshold depth=135
+2026-08-09T09:02:43 WARNING worker Queue depth above threshold depth=53
+2026-08-09T09:08:12 INFO api Request completed status=200 latency=745ms
+2026-08-09T09:11:00 INFO api Request completed status=200 latency=552ms
+2026-08-09T09:05:32 WARNING api High latency detected latency=461ms
+2026-08-09T09:02:47 ERROR worker Failed to process job job_id=job-6409
+2026-08-09T09:08:24 ERROR worker Failed to process job job_id=job-3041
+2026-08-09T09:08:27 ERROR api Timeout connecting to Redis
+2026-08-09T09:08:30 ERROR worker Failed to process job job_id=job-7691
+2026-08-09T09:08:33 WARNING worker Queue depth above threshold depth=80
+2026-08-09T09:05:44 DEBUG api Cache lookup completed key=user:65108
+2026-08-09T09:11:32 ERROR worker Failed to process job job_id=job-3851
+2026-08-09T09:08:42 WARNING worker Queue depth above threshold depth=145
+2026-08-09T09:02:55 DEBUG worker Queue depth=78
+2026-08-09T09:05:52 WARNING worker Queue depth above threshold depth=87
+2026-08-09T09:11:48 ERROR api Database connection failed
+2026-08-09T09:11:52 ERROR worker Failed to process job job_id=job-4501
+2026-08-09T09:11:56 ERROR api Upstream service returned status=503
+2026-08-09T09:06:00 ERROR worker Failed to process job job_id=job-2389
+2026-08-09T09:09:03 ERROR api Timeout connecting to Redis
+2026-08-09T09:09:06 INFO api Request completed status=201 latency=858ms
+2026-08-09T09:06:06 ERROR worker Failed to process job job_id=job-6085
+2026-08-09T09:06:08 DEBUG api Cache lookup completed key=user:29313
+2026-08-09T09:03:05 INFO api Request completed status=200 latency=270ms
+2026-08-09T09:12:24 ERROR api Database connection failed
+2026-08-09T09:03:07 ERROR api Database connection failed
+2026-08-09T09:12:32 ERROR worker Failed to process job job_id=job-4185
+2026-08-09T09:12:36 ERROR api Database connection failed
+2026-08-09T09:12:40 DEBUG api Cache lookup completed key=user:29342
+2026-08-09T09:03:11 INFO api Request completed status=201 latency=817ms
+2026-08-09T09:12:48 DEBUG api Cache lookup completed key=user:33053
+2026-08-09T09:12:52 INFO api Request completed status=200 latency=590ms
+2026-08-09T09:06:28 INFO api Request completed status=201 latency=487ms
+2026-08-09T09:06:30 ERROR api Database connection failed
+2026-08-09T09:09:48 ERROR api Database connection failed
+2026-08-09T09:13:08 ERROR api Timeout connecting to Redis
+2026-08-09T09:13:12 INFO worker Job completed job_id=job-8777 duration=971ms
+2026-08-09T09:09:57 DEBUG api Cache lookup completed key=user:93579
+2026-08-09T09:10:00 ERROR api Timeout connecting to Redis
+2026-08-09T09:13:24 ERROR worker Failed to process job job_id=job-4919
+2026-08-09T09:10:06 ERROR api Database connection failed
+2026-08-09T09:03:23 ERROR api Upstream service returned status=503
+2026-08-09T09:10:12 DEBUG api Cache lookup completed key=user:45614
+2026-08-09T09:10:15 WARNING api High latency detected latency=573ms
+2026-08-09T09:03:26 INFO worker Job completed job_id=job-3471 duration=523ms
+2026-08-09T09:13:48 ERROR api Upstream service returned status=503
+2026-08-09T09:06:56 ERROR api Upstream service returned status=503
+2026-08-09T09:06:58 INFO api Request completed status=201 latency=444ms
+2026-08-09T09:14:00 WARNING api High latency detected latency=575ms
+2026-08-09T09:14:04 WARNING worker Queue depth above threshold depth=20
+2026-08-09T09:07:04 WARNING worker Queue depth above threshold depth=104
+2026-08-09T09:03:33 ERROR api Database connection failed
+2026-08-09T09:14:16 ERROR api Database connection failed
+2026-08-09T09:03:35 WARNING api High latency detected latency=325ms
+2026-08-09T09:14:24 WARNING worker Queue depth above threshold depth=142
+2026-08-09T09:07:14 ERROR api Database connection failed
+2026-08-09T09:07:16 DEBUG worker Queue depth=116
+
+2026-08-09T09:03:40 WARNING worker Queue depth above threshold depth=91
+2026-08-09T09:14:44 ERROR api Upstream service returned status=503
+2026-08-09T09:07:24 ERROR api Database connection failed
+2026-08-09T09:07:26 ERROR api Database connection failed
+2026-08-09T09:03:44 WARNING worker Queue depth above threshold depth=149
+2026-08-09T09:03:45 INFO api Request completed status=201 latency=678ms
+2026-08-09T09:15:04 INFO worker Job completed job_id=job-8564 duration=422ms
+2026-08-09T09:03:47 DEBUG worker Queue depth=102
+2026-08-09T09:11:24 DEBUG api Cache lookup completed key=user:69598
+2026-08-09T09:11:27 WARNING api High latency detected latency=799ms
+2026-08-09T09:15:20 DEBUG worker Queue depth=112
+2026-08-09T09:11:33 INFO api Request completed status=201 latency=501ms
+2026-08-09T09:03:52 ERROR api Upstream service returned status=503
+2026-08-09T09:03:53 WARNING api High latency detected latency=249ms
+2026-08-09T09:03:54 ERROR worker Failed to process job job_id=job-1659
+2026-08-09T09:03:55 DEBUG api Cache lookup completed key=user:36130
+2026-08-09T09:03:56 ERROR api Database connection failed
+2026-08-09T09:07:54 DEBUG api Cache lookup completed key=user:26544
+2026-08-09T09:15:52 ERROR worker Failed to process job job_id=job-2874
+2026-08-09T09:07:58 ERROR api Database connection failed
+2026-08-09T09:12:00 WARNING api High latency detected latency=191ms
+2026-08-09T09:04:01 INFO worker Job completed job_id=job-6096 duration=271ms
+2026-08-09T09:04:02 DEBUG worker Queue depth=101
+2026-08-09T09:16:12 ERROR api Upstream service returned status=503
+2026-08-09T09:08:08 INFO api Request completed status=201 latency=626ms
+2026-08-09T09:08:10 INFO api Request completed status=201 latency=733ms
+2026-08-09T09:12:18 ERROR worker Failed to process job job_id=job-2983
+2026-08-09T09:04:07 WARNING api High latency detected latency=565ms
+2026-08-09T09:16:32 ERROR worker Failed to process job job_id=job-7071
+2026-08-09T09:04:09 ERROR api Timeout connecting to Redis
+2026-08-09T09:12:30 INFO api Request completed status=200 latency=889ms
+2026-08-09T09:16:44 ERROR api Database connection failed
+2026-08-09T09:04:12 WARNING worker Queue depth above threshold depth=97
+2026-08-09T09:16:52 ERROR api Upstream service returned status=503
+2026-08-09T09:08:28 WARNING worker Queue depth above threshold depth=50
+2026-08-09T09:12:45 ERROR api Database connection failed
+2026-08-09T09:17:04 ERROR api Database connection failed
+2026-08-09T09:17:08 ERROR api Upstream service returned status=503
+2026-08-09T09:12:54 WARNING api High latency detected latency=892ms
+2026-08-09T09:08:38 INFO api Request completed status=201 latency=305ms
+2026-08-09T09:17:20 DEBUG api Cache lookup completed key=user:70910
+2026-08-09T09:17:24 WARNING api High latency detected latency=49ms
+2026-08-09T09:17:28 WARNING api High latency detected latency=206ms
+2026-08-09T09:17:32 DEBUG api Cache lookup completed key=user:56507
+2026-08-09T09:13:12 WARNING api High latency detected latency=306ms
+2026-08-09T09:13:15 ERROR api Timeout connecting to Redis
+2026-08-09T09:04:26 ERROR api Timeout connecting to Redis
+2026-08-09T09:08:54 INFO api Request completed status=201 latency=267ms
+2026-08-09T09:17:52 ERROR api Database connection failed
+2026-08-09T09:08:58 ERROR api Upstream service returned status=503
+2026-08-09T09:18:00 ERROR worker Failed to process job job_id=job-9041
+2026-08-09T09:18:04 INFO api Request completed status=200 latency=115ms
+2026-08-09T09:13:36 DEBUG api Cache lookup completed key=user:63005
+2026-08-09T09:09:06 DEBUG worker Queue depth=99
+2026-08-09T09:18:16 ERROR api Timeout connecting to Redis
+2026-08-09T09:13:45 WARNING worker Queue depth above threshold depth=145
+2026-08-09T09:13:48 WARNING api High latency detected latency=739ms
+2026-08-09T09:18:28 DEBUG worker Queue depth=83
+2026-08-09T09:13:54 DEBUG api Cache lookup completed key=user:25814
+2026-08-09T09:09:18 WARNING api High latency detected latency=142ms
+2026-08-09T09:09:20 DEBUG api Cache lookup completed key=user:38361
+2026-08-09T09:18:44 DEBUG worker Queue depth=139
+2026-08-09T09:14:06 INFO api Request completed status=201 latency=872ms
+2026-08-09T09:09:26 DEBUG worker Queue depth=63
+2026-08-09T09:14:12 INFO worker Job completed job_id=job-5952 duration=78ms
+2026-08-09T09:09:30 DEBUG worker Queue depth=16
+2026-08-09T09:04:46 ERROR api Timeout connecting to Redis
+2026-08-09T09:14:21 ERROR api Upstream service returned status=503
+2026-08-09T09:09:36 ERROR worker Failed to process job job_id=job-9042
+2026-08-09T09:04:49 INFO api Request completed status=200 latency=607ms
+2026-08-09T09:14:30 ERROR api Database connection failed
+2026-08-09T09:19:24 ERROR api Database connection failed
+2026-08-09T09:14:36 INFO worker Job completed job_id=job-1841 duration=567ms
+2026-08-09T09:19:32 INFO api Request completed status=201 latency=861ms
+2026-08-09T09:04:54 WARNING worker Queue depth above threshold depth=130
+2026-08-09T09:04:55 ERROR api Database connection failed
+2026-08-09T09:04:56 INFO worker Job completed job_id=job-3444 duration=1202ms
+2026-08-09T09:14:51 INFO api Request completed status=201 latency=274ms
+2026-08-09T09:04:58 ERROR api Timeout connecting to Redis
+2026-08-09T09:19:56 ERROR api Database connection failed
+2026-08-09T09:10:00 ERROR api Timeout connecting to Redis
+2026-08-09T09:20:04 ERROR api Database connection failed
+2026-08-09T09:20:08 DEBUG worker Queue depth=114
+2026-08-09T09:15:09 ERROR api Database connection failed
+2026-08-09T09:05:04 ERROR api Database connection failed
+2026-08-09T09:05:05 DEBUG api Cache lookup completed key=user:91987
+2026-08-09T09:10:12 DEBUG worker Queue depth=25
+2026-08-09T09:10:14 DEBUG api Cache lookup completed key=user:32782
+2026-08-09T09:05:08 INFO worker Job completed job_id=job-1043 duration=886ms
+2026-08-09T09:20:36 ERROR api Upstream service returned status=503
+2026-08-09T09:20:40 DEBUG worker Queue depth=13
+2026-08-09T09:10:22 DEBUG worker Queue depth=77
+2026-08-09T09:20:48 INFO api Request completed status=201 latency=723ms
+2026-08-09T09:10:26 DEBUG worker Queue depth=55
+2026-08-09T09:20:56 INFO api Request completed status=201 latency=577ms
+2026-08-09T09:10:30 ERROR worker Failed to process job job_id=job-3441
+2026-08-09T09:15:48 INFO worker Job completed job_id=job-2169 duration=172ms
+2026-08-09T09:10:34 DEBUG worker Queue depth=150
+2026-08-09T09:15:54 ERROR api Database connection failed
+2026-08-09T09:05:19 ERROR api Database connection failed
+2026-08-09T09:16:00 ERROR api Upstream service returned status=503
+2026-08-09T09:21:24 DEBUG worker Queue depth=133
+2026-08-09T09:21:28 ERROR api Database connection failed
+2026-08-09T09:05:23 ERROR api Database connection failed
+2026-08-09T09:05:24 WARNING worker Queue depth above threshold depth=87
+2026-08-09T09:16:15 INFO api Request completed status=200 latency=113ms
+2026-08-09T09:10:52 ERROR worker Failed to process job job_id=job-1339
+2026-08-09T09:16:21 ERROR api Database connection failed
+2026-08-09T09:05:28 INFO worker Job completed job_id=job-8708 duration=1112ms
+2026-08-09T09:21:56 DEBUG worker Queue depth=51
+2026-08-09T09:22:00 ERROR worker Failed to process job job_id=job-9056
+2026-08-09T09:05:31 ERROR api Database connection failed
+2026-08-09T09:16:36 WARNING worker Queue depth above threshold depth=90
+2026-08-09T09:16:39 ERROR worker Failed to process job job_id=job-2713
+2026-08-09T09:11:08 WARNING api High latency detected latency=441ms
+2026-08-09T09:22:20 DEBUG worker Queue depth=107
+2026-08-09T09:05:36 ERROR api Database connection failed
+2026-08-09T09:05:37 WARNING api High latency detected latency=278ms
+2026-08-09T09:16:54 INFO api Request completed status=201 latency=811ms
+2026-08-09T09:22:36 ERROR api Timeout connecting to Redis
+2026-08-09T09:05:40 ERROR worker Failed to process job job_id=job-9889
+2026-08-09T09:22:44 WARNING worker Queue depth above threshold depth=18
+2026-08-09T09:11:24 ERROR api Timeout connecting to Redis
+2026-08-09T09:17:09 ERROR api Database connection failed
+2026-08-09T09:22:56 ERROR worker Failed to process job job_id=job-8242
+2026-08-09T09:05:45 DEBUG api Cache lookup completed key=user:45003
+2026-08-09T09:11:32 DEBUG worker Queue depth=117
+2026-08-09T09:23:08 INFO api Request completed status=201 latency=49ms
+2026-08-09T09:11:36 ERROR api Upstream service returned status=503
+2026-08-09T09:11:38 DEBUG worker Queue depth=146
+2026-08-09T09:05:50 ERROR api Timeout connecting to Redis
+2026-08-09T09:23:24 INFO api Request completed status=201 latency=250ms
+2026-08-09T09:05:52 ERROR api Database connection failed
+2026-08-09T09:05:53 ERROR worker Failed to process job job_id=job-3522
+2026-08-09T09:23:36 ERROR api Upstream service returned status=503
+2026-08-09T09:17:45 ERROR api Timeout connecting to Redis
+2026-08-09T09:17:48 WARNING worker Queue depth above threshold depth=128
+2026-08-09T09:23:48 DEBUG api Cache lookup completed key=user:69871
+2026-08-09T09:11:56 WARNING worker Queue depth above threshold depth=53
+2026-08-09T09:11:58 INFO api Request completed status=201 latency=302ms
+2026-08-09T09:24:00 WARNING api High latency detected latency=826ms
+2026-08-09T09:18:03 INFO api Request completed status=200 latency=309ms
+2026-08-09T09:18:06 ERROR api Database connection failed
+2026-08-09T09:24:12 INFO worker Job completed job_id=job-8316 duration=1153ms
+2026-08-09T09:24:16 WARNING api High latency detected latency=360ms
+2026-08-09T09:24:20 ERROR api Database connection failed
+2026-08-09T09:18:18 DEBUG api Cache lookup completed key=user:41300
+2026-08-09T09:24:28 DEBUG api Cache lookup completed key=user:63841
+2026-08-09T09:06:08 WARNING api High latency detected latency=782ms
+2026-08-09T09:24:36 ERROR api Upstream service returned status=503
+2026-08-09T09:24:40 WARNING worker Queue depth above threshold depth=43
+2026-08-09T09:24:44 INFO api Request completed status=200 latency=149ms
+2026-08-09T09:18:36 INFO api Request completed status=201 latency=885ms
+2026-08-09T09:24:52 INFO api Request completed status=201 latency=558ms
+2026-08-09T09:24:56 INFO api Request completed status=200 latency=759ms
+2026-08-09T09:12:30 WARNING worker Queue depth above threshold depth=44
+2026-08-09T09:06:16 ERROR api Database connection failed
+2026-08-09T09:18:51 WARNING api High latency detected latency=658ms
+2026-08-09T09:25:12 ERROR worker Failed to process job job_id=job-2315
+2026-08-09T09:18:57 ERROR worker Failed to process job job_id=job-9742
+2026-08-09T09:25:20 WARNING api High latency detected latency=661ms
+2026-08-09T09:25:24 ERROR api Timeout connecting to Redis
+2026-08-09T09:06:22 ERROR api Database connection failed
+2026-08-09T09:06:23 DEBUG api Cache lookup completed key=user:92727
+2026-08-09T09:19:12 DEBUG api Cache lookup completed key=user:21846
+2026-08-09T09:25:40 INFO api Request completed status=201 latency=798ms
+2026-08-09T09:06:26 ERROR api Database connection failed
+2026-08-09T09:12:54 ERROR api Upstream service returned status=503
+2026-08-09T09:19:24 INFO api Request completed status=200 latency=67ms
+2026-08-09T09:19:27 INFO api Request completed status=200 latency=320ms
+2026-08-09T09:19:30 WARNING api High latency detected latency=461ms
+2026-08-09T09:13:02 DEBUG api Cache lookup completed key=user:79621
+2026-08-09T09:26:08 ERROR api Database connection failed
+2026-08-09T09:13:06 INFO worker Job completed job_id=job-3868 duration=211ms
+2026-08-09T09:26:16 ERROR api Database connection failed
+2026-08-09T09:13:10 ERROR api Database connection failed
+2026-08-09T09:13:12 DEBUG api Cache lookup completed key=user:70443
+2026-08-09T09:19:51 ERROR api Database connection failed
+2026-08-09T09:19:54 ERROR worker Failed to process job job_id=job-1153
+2026-08-09T09:26:36 DEBUG worker Queue depth=144
+2026-08-09T09:13:20 INFO api Request completed status=201 latency=472ms
+2026-08-09T09:20:03 ERROR api Database connection failed
+2026-08-09T09:20:06 ERROR worker Failed to process job job_id=job-7951
+2026-08-09T09:20:09 ERROR api Database connection failed
+2026-08-09T09:20:12 DEBUG api Cache lookup completed key=user:60422
+2026-08-09T09:27:00 INFO api Request completed status=201 latency=262ms
+2026-08-09T09:27:04 ERROR api Database connection failed
+2026-08-09T09:20:21 ERROR api Database connection failed
+2026-08-09T09:20:24 ERROR api Upstream service returned status=503
+2026-08-09T09:20:27 INFO api Request completed status=200 latency=869ms
+2026-08-09T09:27:20 DEBUG worker Queue depth=7
+2026-08-09T09:06:51 ERROR api Database connection failed
+2026-08-09T09:27:28 DEBUG worker Queue depth=63
+2026-08-09T09:20:39 DEBUG api Cache lookup completed key=user:93442
+2026-08-09T09:13:48 ERROR api Database connection failed
+2026-08-09T09:20:45 ERROR worker Failed to process job job_id=job-3240
+2026-08-09T09:06:56 ERROR worker Failed to process job job_id=job-1645
+2026-08-09T09:20:51 ERROR api Database connection failed
+2026-08-09T09:06:58 ERROR api Database connection failed
+2026-08-09T09:20:57 ERROR api Upstream service returned status=503
+2026-08-09T09:14:00 INFO api Request completed status=201 latency=322ms
+2026-08-09T09:21:03 ERROR api Upstream service returned status=503
+2026-08-09T09:28:08 INFO worker Job completed job_id=job-4289 duration=320ms
+2026-08-09T09:21:09 ERROR api Timeout connecting to Redis
+2026-08-09T09:21:12 INFO worker Job completed job_id=job-5210 duration=1036ms
+2026-08-09T09:21:15 ERROR api Upstream service returned status=503
+2026-08-09T09:21:18 INFO api Request completed status=201 latency=499ms
+2026-08-09T09:07:07 INFO worker Job completed job_id=job-4696 duration=1435ms
+2026-08-09T09:28:32 ERROR api Timeout connecting to Redis
+2026-08-09T09:21:27 INFO api Request completed status=201 latency=829ms
+2026-08-09T09:28:40 INFO api Request completed status=200 latency=290ms
+2026-08-09T09:07:11 ERROR api Database connection failed
+2026-08-09T09:21:36 ERROR worker Failed to process job job_id=job-5295
+2026-08-09T09:28:52 ERROR worker Failed to process job job_id=job-7086
+2026-08-09T09:07:14 ERROR worker Failed to process job job_id=job-4830
+2026-08-09T09:29:00 INFO api Request completed status=200 latency=654ms
+2026-08-09T09:21:48 ERROR api Database connection failed
+2026-08-09T09:14:34 ERROR worker Failed to process job job_id=job-2035
+2026-08-09T09:29:12 ERROR api Upstream service returned status=503
+2026-08-09T09:21:57 ERROR worker Failed to process job job_id=job-7689
+2026-08-09T09:07:20 INFO worker Job completed job_id=job-1742 duration=126ms
+2026-08-09T09:22:03 ERROR api Database connection failed
+2026-08-09T09:07:22 INFO api Request completed status=201 latency=260ms
+2026-08-09T09:14:46 WARNING worker Queue depth above threshold depth=121
+2026-08-09T09:22:12 ERROR worker Failed to process job job_id=job-9850
+2026-08-09T09:29:40 ERROR api Database connection failed
+2026-08-09T09:14:52 WARNING worker Queue depth above threshold depth=30
+2026-08-09T09:29:48 ERROR api Database connection failed
+2026-08-09T09:29:52 DEBUG worker Queue depth=13
+2026-08-09T09:22:27 DEBUG api Cache lookup completed key=user:68115
+2026-08-09T09:30:00 DEBUG api Cache lookup completed key=user:57537
+2026-08-09T09:07:31 ERROR worker Failed to process job job_id=job-7018
+2026-08-09T09:22:36 INFO api Request completed status=200 latency=427ms
+2026-08-09T09:22:39 DEBUG api Cache lookup completed key=user:26011
+2026-08-09T09:30:16 INFO api Request completed status=201 latency=698ms
+2026-08-09T09:15:10 ERROR worker Failed to process job job_id=job-1349
+2026-08-09T09:07:36 WARNING api High latency detected latency=269ms
+2026-08-09T09:15:14 ERROR api Database connection failed
+2026-08-09T09:15:16 INFO api Request completed status=201 latency=869ms
+2026-08-09T09:15:18 ERROR api Database connection failed
+2026-08-09T09:15:20 DEBUG api Cache lookup completed key=user:53064
+2026-08-09T09:15:22 ERROR api Database connection failed
+2026-08-09T09:07:42 DEBUG worker Queue depth=42
+2026-08-09T09:15:26 ERROR api Timeout connecting to Redis
+2026-08-09T09:23:12 INFO worker Job completed job_id=job-2801 duration=1403ms
+2026-08-09T09:07:45 INFO worker Job completed job_id=job-1243 duration=783ms
+2026-08-09T09:15:32 ERROR api Database connection failed
+2026-08-09T09:23:21 INFO api Request completed status=200 latency=198ms
+2026-08-09T09:23:24 INFO api Request completed status=200 latency=149ms
+2026-08-09T09:31:16 ERROR api Timeout connecting to Redis
+2026-08-09T09:07:50 ERROR api Upstream service returned status=503
+2026-08-09T09:07:51 ERROR api Database connection failed
+2026-08-09T09:31:28 WARNING api High latency detected latency=545ms
+2026-08-09T09:07:53 ERROR api Database connection failed
+2026-08-09T09:15:48 ERROR api Database connection failed
+2026-08-09T09:07:55 ERROR api Upstream service returned status=503
+2026-08-09T09:23:48 ERROR api Database connection failed
+2026-08-09T09:07:57 INFO api Request completed status=200 latency=510ms
+2026-08-09T09:31:52 WARNING worker Queue depth above threshold depth=32
+2026-08-09T09:31:56 ERROR api Upstream service returned status=503
+2026-08-09T09:32:00 INFO api Request completed status=201 latency=102ms
+2026-08-09T09:24:03 ERROR api Database connection failed
+2026-08-09T09:16:04 INFO api Request completed status=201 latency=149ms
+2026-08-09T09:24:09 ERROR api Database connection failed
+2026-08-09T09:24:12 WARNING worker Queue depth above threshold depth=140
+2026-08-09T09:24:15 ERROR api Database connection failed
+2026-08-09T09:32:24 INFO api Request completed status=201 latency=832ms
+2026-08-09T09:08:07 ERROR worker Failed to process job job_id=job-4522
+2026-08-09T09:32:32 ERROR api Database connection failed
+2026-08-09T09:16:18 WARNING worker Queue depth above threshold depth=91
+2026-08-09T09:32:40 WARNING worker Queue depth above threshold depth=111
+2026-08-09T09:08:11 WARNING api High latency detected latency=457ms
+2026-08-09T09:24:36 ERROR worker Failed to process job job_id=job-5176
+2026-08-09T09:24:39 INFO worker Job completed job_id=job-8770 duration=187ms
+2026-08-09T09:08:14 INFO api Request completed status=201 latency=115ms
+2026-08-09T09:33:00 INFO api Request completed status=201 latency=782ms
+2026-08-09T09:24:48 INFO worker Job completed job_id=job-1982 duration=1251ms
+2026-08-09T09:24:51 ERROR worker Failed to process job job_id=job-3002
+2026-08-09T09:33:12 WARNING api High latency detected latency=701ms
+2026-08-09T09:33:16 ERROR api Upstream service returned status=503
+2026-08-09T09:08:20 DEBUG worker Queue depth=84
+2026-08-09T09:25:03 INFO api Request completed status=201 latency=611ms
+2026-08-09T09:16:44 INFO worker Job completed job_id=job-8900 duration=509ms
+2026-08-09T09:08:23 WARNING api High latency detected latency=885ms
+2026-08-09T09:25:12 INFO api Request completed status=201 latency=800ms
+2026-08-09T09:25:15 ERROR api Database connection failed
+2026-08-09T09:16:52 WARNING worker Queue depth above threshold depth=148
+2026-08-09T09:08:27 ERROR api Database connection failed
+2026-08-09T09:25:24 INFO api Request completed status=200 latency=204ms
+2026-08-09T09:25:27 ERROR api Upstream service returned status=503
+2026-08-09T09:25:30 WARNING api High latency detected latency=379ms
+2026-08-09 missing-fields
+2026-08-09T09:17:04 INFO worker Job completed job_id=job-7566 duration=192ms
+2026-08-09T09:17:06 ERROR api Upstream service returned status=503
+2026-08-09T09:08:34 INFO api Request completed status=201 latency=784ms
+2026-08-09T09:17:10 WARNING worker Queue depth above threshold depth=112
+2026-08-09T09:34:24 WARNING api High latency detected latency=181ms
+2026-08-09T09:25:51 DEBUG worker Queue depth=88
+2026-08-09T09:08:38 INFO api Request completed status=200 latency=179ms
+2026-08-09T09:17:18 ERROR api Database connection failed
+2026-08-09T09:08:40 ERROR worker Failed to process job job_id=job-2336
+2026-08-09T09:26:03 ERROR api Database connection failed
+2026-08-09T09:34:48 ERROR api Database connection failed
+2026-08-09T09:34:52 WARNING worker Queue depth above threshold depth=74
+2026-08-09T09:17:28 ERROR api Timeout connecting to Redis
+2026-08-09T09:08:45 WARNING api High latency detected latency=460ms
+2026-08-09T09:08:46 DEBUG worker Queue depth=129
+2026-08-09T09:26:21 INFO api Request completed status=200 latency=245ms
+2026-08-09T09:35:12 ERROR api Database connection failed
+2026-08-09T09:08:49 INFO api Request completed status=200 latency=229ms
+2026-08-09T09:26:30 DEBUG api Cache lookup completed key=user:27987
+2026-08-09T09:26:33 DEBUG worker Queue depth=88
+2026-08-09T09:08:52 INFO api Request completed status=200 latency=529ms
+2026-08-09T09:35:32 INFO worker Job completed job_id=job-3116 duration=828ms
+2026-08-09T09:17:48 ERROR api Timeout connecting to Redis
+2026-08-09T09:26:45 INFO api Request completed status=201 latency=426ms
+2026-08-09T09:08:56 WARNING worker Queue depth above threshold depth=9
+2026-08-09T09:35:48 INFO api Request completed status=201 latency=340ms
+2026-08-09T09:35:52 ERROR api Database connection failed
+2026-08-09T09:35:56 ERROR api Upstream service returned status=503
+2026-08-09T09:36:00 DEBUG worker Queue depth=34
+2026-08-09T09:36:04 INFO api Request completed status=200 latency=352ms
+2026-08-09T09:18:04 ERROR api Database connection failed
+2026-08-09T09:36:12 ERROR api Upstream service returned status=503
+2026-08-09T09:27:12 INFO api Request completed status=201 latency=467ms
+2026-08-09T09:09:05 DEBUG api Cache lookup completed key=user:67104
+2026-08-09T09:36:24 ERROR api Timeout connecting to Redis
+2026-08-09T09:09:07 WARNING worker Queue depth above threshold depth=84
+2026-08-09T09:27:24 DEBUG api Cache lookup completed key=user:53655
+2026-08-09T09:18:18 INFO api Request completed status=201 latency=542ms
+2026-08-09T09:09:10 ERROR api Timeout connecting to Redis
+2026-08-09T09:18:22 WARNING api High latency detected latency=379ms
+2026-08-09T09:18:24 DEBUG api Cache lookup completed key=user:23474
+2026-08-09T09:18:26 DEBUG worker Queue depth=55
+2026-08-09T09:18:28 ERROR api Database connection failed
+2026-08-09T09:18:30 ERROR worker Failed to process job job_id=job-2234
+2026-08-09T09:18:32 ERROR worker Failed to process job job_id=job-9095
+2026-08-09T09:37:08 ERROR api Database connection failed
+2026-08-09T09:37:12 ERROR worker Failed to process job job_id=job-6295
+2026-08-09T09:27:57 INFO worker Job completed job_id=job-8205 duration=189ms
+2026-08-09T09:37:20 ERROR api Database connection failed
+2026-08-09T09:28:03 DEBUG worker Queue depth=19
+2026-08-09T09:28:06 ERROR api Timeout connecting to Redis
+2026-08-09T09:09:23 DEBUG worker Queue depth=123
+2026-08-09T09:37:36 INFO api Request completed status=200 latency=78ms
+2026-08-09T09:28:15 DEBUG worker Queue depth=24
+2026-08-09T09:09:26 ERROR api Database connection failed
+2026-08-09T09:37:48 ERROR api Database connection failed
+2026-08-09T09:09:28 ERROR api Database connection failed
+2026-08-09T09:18:58 WARNING api High latency detected latency=639ms
+2026-08-09T09:38:00 ERROR api Timeout connecting to Redis
+2026-08-09T09:19:02 INFO api Request completed status=200 latency=481ms
+2026-08-09T09:09:32 WARNING api High latency detected latency=751ms
+2026-08-09T09:09:33 ERROR api Timeout connecting to Redis
+2026-08-09T09:19:08 INFO api Request completed status=200 latency=273ms
+2026-08-09T09:38:20 ERROR api Database connection failed
+2026-08-09T09:19:12 WARNING api High latency detected latency=401ms
+2026-08-09T09:28:51 WARNING worker Queue depth above threshold depth=109
+2026-08-09T09:28:54 ERROR worker Failed to process job job_id=job-1857
+2026-08-09T09:28:57 INFO api Request completed status=201 latency=357ms
+2026-08-09T09:09:40 ERROR api Timeout connecting to Redis
+2026-08-09T09:38:44 DEBUG worker Queue depth=69
+2026-08-09T09:19:24 WARNING api High latency detected latency=103ms
+2026-08-09T09:19:26 WARNING api High latency detected latency=337ms
+2026-08-09T09:38:56 INFO worker Job completed job_id=job-2388 duration=684ms
+2026-08-09T09:39:00 ERROR worker Failed to process job job_id=job-6381
+2026-08-09T09:19:32 ERROR worker Failed to process job job_id=job-9624
+2026-08-09T09:09:47 ERROR worker Failed to process job job_id=job-7937
+2026-08-09T09:29:24 INFO api Request completed status=200 latency=391ms
+2026-08-09T09:29:27 INFO worker Job completed job_id=job-4509 duration=749ms
+2026-08-09T09:39:20 DEBUG api Cache lookup completed key=user:39693
+2026-08-09T09:19:42 INFO worker Job completed job_id=job-2264 duration=655ms
+2026-08-09T09:09:52 ERROR api Timeout connecting to Redis
+2026-08-09T09:09:53 ERROR worker Failed to process job job_id=job-6517
+2026-08-09T09:19:48 ERROR api Database connection failed
+2026-08-09T09:39:40 INFO worker Job completed job_id=job-3658 duration=420ms
+2026-08-09T09:19:52 ERROR api Upstream service returned status=503
+2026-08-09T09:39:48 INFO api Request completed status=200 latency=440ms
+2026-08-09T09:29:54 ERROR worker Failed to process job job_id=job-4891
+2026-08-09T09:39:56 ERROR api Database connection failed
+2026-08-09T09:30:00 ERROR api Upstream service returned status=503
+2026-08-09T09:40:04 DEBUG api Cache lookup completed key=user:79993
+2026-08-09T09:20:04 DEBUG worker Queue depth=125
+2026-08-09T09:20:06 WARNING api High latency detected latency=714ms
+2026-08-09T09:40:16 ERROR api Database connection failed
+2026-08-09T09:30:15 WARNING worker Queue depth above threshold depth=133
+2026-08-09T09:40:24 INFO worker Job completed job_id=job-4271 duration=1288ms
+2026-08-09T09:20:14 DEBUG worker Queue depth=18
+2026-08-09T09:40:32 WARNING api High latency detected latency=587ms
+2026-08-09T09:10:09 ERROR api Upstream service returned status=503
+2026-08-09T09:10:10 DEBUG worker Queue depth=26
+2026-08-09T09:20:22 DEBUG worker Queue depth=120
+2026-08-09T09:20:24 WARNING worker Queue depth above threshold depth=28
+2026-08-09T09:20:26 ERROR api Database connection failed
+2026-08-09T09:30:42 INFO api Request completed status=200 latency=444ms
+2026-08-09T09:10:15 WARNING worker Queue depth above threshold depth=133
+2026-08-09T09:30:48 DEBUG api Cache lookup completed key=user:60615
+2026-08-09T09:10:17 WARNING api High latency detected latency=249ms
+2026-08-09T09:10:18 WARNING api High latency detected latency=121ms
+2026-08-09T09:30:57 INFO worker Job completed job_id=job-3254 duration=128ms
+2026-08-09T09:31:00 ERROR api Database connection failed
+2026-08-09T09:20:42 ERROR api Upstream service returned status=503
+2026-08-09T09:41:28 ERROR api Database connection failed
+2026-08-09T09:10:23 INFO api Request completed status=201 latency=39ms
+2026-08-09T09:31:12 DEBUG api Cache lookup completed key=user:29597
+2026-08-09T09:41:40 INFO api Request completed status=201 latency=814ms
+2026-08-09T09:31:18 DEBUG api Cache lookup completed key=user:49472
+2026-08-09T09:10:27 INFO api Request completed status=200 latency=264ms
+2026-08-09T09:41:52 ERROR worker Failed to process job job_id=job-8489
+2026-08-09T09:10:29 INFO api Request completed status=201 latency=876ms
+2026-08-09T09:42:00 ERROR api Database connection failed
+2026-08-09T09:10:31 ERROR worker Failed to process job job_id=job-9443
+2026-08-09T09:21:04 ERROR api Upstream service returned status=503
+2026-08-09T09:21:06 DEBUG worker Queue depth=114
+2026-08-09T09:10:34 ERROR api Database connection failed
+2026-08-09T09:31:45 DEBUG api Cache lookup completed key=user:84798
+2026-08-09T09:42:24 INFO worker Job completed job_id=job-2402 duration=1122ms
+2026-08-09T09:31:51 INFO api Request completed status=201 latency=558ms
+2026-08-09T09:10:38 WARNING worker Queue depth above threshold depth=125
+2026-08-09T09:10:39 ERROR worker Failed to process job job_id=job-7338
+2026-08-09T09:32:00 DEBUG worker Queue depth=9
+2026-08-09T09:32:03 INFO api Request completed status=201 latency=373ms
+2026-08-09T09:21:24 ERROR api Upstream service returned status=503
+2026-08-09T09:10:43 ERROR api Database connection failed
+2026-08-09T09:32:12 INFO worker Job completed job_id=job-1726 duration=771ms
+2026-08-09T09:32:15 ERROR worker Failed to process job job_id=job-3868
+2026-08-09T09:43:04 ERROR api Upstream service returned status=503
+2026-08-09T09:43:08 ERROR worker Failed to process job job_id=job-3986
+2026-08-09T09:21:36 INFO api Request completed status=201 latency=753ms
+2026-08-09T09:43:16 INFO api Request completed status=200 latency=320ms
+2026-08-09T09:21:40 INFO api Request completed status=200 latency=830ms
+2026-08-09T09:21:42 INFO api Request completed status=200 latency=343ms
+2026-08-09T09:32:36 ERROR api Timeout connecting to Redis
+2026-08-09T09:43:32 ERROR api Timeout connecting to Redis
+2026-08-09T09:43:36 DEBUG worker Queue depth=14
+2026-08-09T09:21:50 DEBUG worker Queue depth=96
+2026-08-09T09:10:56 ERROR worker Failed to process job job_id=job-6438
+2026-08-09T09:32:51 INFO api Request completed status=201 latency=838ms
+2026-08-09T09:32:54 WARNING worker Queue depth above threshold depth=107
+2026-08-09T09:43:56 WARNING worker Queue depth above threshold depth=91
+2026-08-09T09:22:00 ERROR api Database connection failed
+2026-08-09T09:44:04 WARNING api High latency detected latency=836ms
+2026-08-09T09:33:06 INFO api Request completed status=201 latency=764ms
+2026-08-09T09:44:12 INFO api Request completed status=201 latency=460ms
+2026-08-09T09:22:08 ERROR api Timeout connecting to Redis
+2026-08-09T09:33:15 WARNING api High latency detected latency=125ms
+2026-08-09T09:11:06 WARNING api High latency detected latency=696ms
+2026-08-09T09:33:21 DEBUG worker Queue depth=119
+2026-08-09T09:44:32 INFO worker Job completed job_id=job-8272 duration=769ms
+2026-08-09T09:44:36 INFO api Request completed status=200 latency=764ms
+2026-08-09T09:33:30 ERROR api Database connection failed
+2026-08-09T09:44:44 DEBUG worker Queue depth=19
+2026-08-09T09:11:12 ERROR worker Failed to process job job_id=job-7655
+2026-08-09T09:33:39 ERROR api Timeout connecting to Redis
+2026-08-09T09:22:28 INFO api Request completed status=200 latency=166ms
+2026-08-09T09:45:00 INFO api Request completed status=200 latency=149ms
+2026-08-09T09:11:16 DEBUG api Cache lookup completed key=user:94562
+2026-08-09T09:33:51 WARNING api High latency detected latency=412ms
+2026-08-09T09:11:18 ERROR api Database connection failed
+2026-08-09T09:22:38 ERROR worker Failed to process job job_id=job-8371
+2026-08-09T09:34:00 WARNING api High latency detected latency=474ms
+2026-08-09T09:11:21 ERROR api Database connection failed
+2026-08-09T09:22:44 ERROR api Timeout connecting to Redis
+2026-08-09T09:34:09 WARNING worker Queue depth above threshold depth=85
+2026-08-09T09:34:12 DEBUG api Cache lookup completed key=user:24869
+2026-08-09T09:11:25 ERROR api Upstream service returned status=503
+2026-08-09T09:22:52 ERROR api Database connection failed
+2026-08-09T09:45:48 ERROR api Timeout connecting to Redis
+2026-08-09T09:11:28 DEBUG worker Queue depth=71
+2026-08-09T09:45:56 DEBUG api Cache lookup completed key=user:90199
+2026-08-09T09:34:30 ERROR api Upstream service returned status=503
+2026-08-09T09:46:04 DEBUG api Cache lookup completed key=user:26074
+2026-08-09T09:23:04 INFO api Request completed status=201 latency=482ms
+2026-08-09T09:23:06 ERROR api Upstream service returned status=503
+2026-08-09T09:46:16 INFO api Request completed status=201 latency=849ms
+2026-08-09T09:34:45 ERROR worker Failed to process job job_id=job-6692
+2026-08-09T09:11:36 ERROR api Timeout connecting to Redis
+2026-08-09T09:34:51 DEBUG worker Queue depth=45
+2026-08-09T09:23:16 WARNING api High latency detected latency=540ms
+2026-08-09T09:23:18 INFO api Request completed status=201 latency=225ms
+2026-08-09T09:23:20 DEBUG api Cache lookup completed key=user:74752
+2026-08-09T09:11:41 WARNING api High latency detected latency=587ms
+2026-08-09T09:35:06 ERROR api Database connection failed
+2026-08-09T09:23:26 ERROR api Database connection failed
+2026-08-09T09:11:44 INFO api Request completed status=201 latency=336ms
+2026-08-09T09:47:00 ERROR api Upstream service returned status=503
+2026-08-09T09:47:04 ERROR api Timeout connecting to Redis
+2026-08-09T09:47:08 WARNING worker Queue depth above threshold depth=23
+2026-08-09T09:23:36 WARNING api High latency detected latency=677ms
+2026-08-09T09:11:49 ERROR api Database connection failed
+2026-08-09T09:47:20 ERROR worker Failed to process job job_id=job-9476
+2026-08-09T09:35:33 INFO worker Job completed job_id=job-3981 duration=314ms
+2026-08-09T09:47:28 ERROR api Timeout connecting to Redis
+2026-08-09T09:11:53 INFO api Request completed status=201 latency=550ms
+2026-08-09T09:23:48 DEBUG worker Queue depth=47
+2026-08-09T09:23:50 WARNING api High latency detected latency=746ms
+2026-08-09T09:23:52 WARNING api High latency detected latency=551ms
+2026-08-09T09:35:51 INFO api Request completed status=201 latency=276ms
+2026-08-09T09:23:56 ERROR worker Failed to process job job_id=job-5496
+2026-08-09T09:23:58 ERROR worker Failed to process job job_id=job-5961
+2026-08-09T09:12:00 ERROR api Timeout connecting to Redis
+2026-08-09T09:24:02 ERROR api Database connection failed
+2026-08-09T09:24:04 INFO worker Job completed job_id=job-6531 duration=1204ms
+2026-08-09T09:12:03 INFO api Request completed status=200 latency=103ms
+2026-08-09T09:12:04 ERROR worker Failed to process job job_id=job-5336
+2026-08-09T09:24:10 ERROR api Database connection failed
+2026-08-09T09:48:24 ERROR api Database connection failed
+2026-08-09T09:12:07 ERROR api Database connection failed
+2026-08-09T09:36:24 ERROR worker Failed to process job job_id=job-5949
+2026-08-09T09:48:36 DEBUG api Cache lookup completed key=user:99783
+2026-08-09T09:48:40 DEBUG worker Queue depth=121
+2026-08-09T09:12:11 ERROR api Upstream service returned status=503
+2026-08-09T09:12:12 INFO worker Job completed job_id=job-8202 duration=901ms
+2026-08-09T09:48:52 ERROR api Database connection failed
+2026-08-09T09:24:28 WARNING api High latency detected latency=641ms
+2026-08-09T09:24:30 WARNING api High latency detected latency=755ms
+2026-08-09T09:36:48 ERROR api Upstream service returned status=503
+2026-08-09T09:36:51 WARNING worker Queue depth above threshold depth=38
+2026-08-09T09:36:54 ERROR api Timeout connecting to Redis
+2026-08-09T09:12:19 WARNING api High latency detected latency=267ms
+2026-08-09T09:49:20 INFO api Request completed status=201 latency=293ms
+2026-08-09T09:49:24 DEBUG api Cache lookup completed key=user:28465
+2026-08-09T09:12:22 INFO api Request completed status=200 latency=317ms
+2026-08-09T09:49:32 ERROR api Database connection failed
+2026-08-09T09:49:36 DEBUG api Cache lookup completed key=user:30932
+2026-08-09T09:37:15 ERROR api Database connection failed
+2026-08-09T09:37:18 DEBUG api Cache lookup completed key=user:30885
+2026-08-09T09:49:48 ERROR api Timeout connecting to Redis
+2026-08-09T09:49:52 ERROR api Database connection failed
+2026-08-09T09:37:27 ERROR api Database connection failed
+2026-08-09T09:12:30 INFO api Request completed status=201 latency=422ms
+2026-08-09T09:50:04 DEBUG api Cache lookup completed key=user:38199
+2026-08-09T09:37:36 INFO api Request completed status=200 latency=71ms
+2026-08-09T09:37:39 ERROR api Database connection failed
+2026-08-09T09:50:16 DEBUG worker Queue depth=142
+2026-08-09T09:12:35 INFO api Request completed status=201 latency=461ms
+2026-08-09T09:25:12 DEBUG worker Queue depth=98
+2026-08-09T09:50:28 WARNING api High latency detected latency=66ms
+2026-08-09T09:50:32 INFO api Request completed status=200 latency=603ms
+2026-08-09T09:25:18 WARNING api High latency detected latency=586ms
+2026-08-09T09:38:00 INFO api Request completed status=201 latency=415ms
+2026-08-09T09:50:44 ERROR api Timeout connecting to Redis
+2026-08-09T09:38:06 ERROR api Database connection failed
+2026-08-09T09:12:43 INFO worker Job completed job_id=job-2584 duration=856ms
+2026-08-09T09:38:12 WARNING api High latency detected latency=591ms
+2026-08-09T09:38:15 INFO worker Job completed job_id=job-4261 duration=1283ms
+2026-08-09T09:51:04 ERROR api Timeout connecting to Redis
+2026-08-09T09:12:47 INFO api Request completed status=200 latency=59ms
+2026-08-09T09:25:36 ERROR api Upstream service returned status=503
+2026-08-09T09:38:27 ERROR api Database connection failed
+2026-08-09T09:51:20 INFO worker Job completed job_id=job-9446 duration=336ms
+2026-08-09T09:38:33 ERROR api Database connection failed
+2026-08-09T09:38:36 INFO worker Job completed job_id=job-7438 duration=1312ms
+2026-08-09T09:38:39 ERROR api Database connection failed
+2026-08-09T09:38:42 ERROR api Timeout connecting to Redis
+2026-08-09T09:51:40 ERROR api Upstream service returned status=503
+2026-08-09T09:38:48 ERROR api Database connection failed
+2026-08-09T09:12:57 WARNING api High latency detected latency=359ms
+2026-08-09T09:12:58 WARNING worker Queue depth above threshold depth=83
+2026-08-09T09:12:59 ERROR api Database connection failed
+2026-08-09T09:52:00 DEBUG worker Queue depth=63
+2026-08-09T09:13:01 ERROR api Database connection failed
+2026-08-09T09:52:08 INFO worker Job completed job_id=job-9589 duration=1338ms
+2026-08-09T09:52:12 INFO worker Job completed job_id=job-4968 duration=114ms
+2026-08-09T09:13:04 DEBUG api Cache lookup completed key=user:12482
+2026-08-09T09:52:20 WARNING api High latency detected latency=448ms
+2026-08-09T09:26:12 WARNING worker Queue depth above threshold depth=57
+2026-08-09T09:52:28 ERROR api Timeout connecting to Redis
+2026-08-09T09:52:32 ERROR api Upstream service returned status=503
+2026-08-09T09:13:09 ERROR api Upstream service returned status=503
+2026-08-09T09:26:20 ERROR api Timeout connecting to Redis
+2026-08-09T09:26:22 ERROR api Timeout connecting to Redis
+2026-08-09T09:39:36 ERROR worker Failed to process job job_id=job-8837
+2026-08-09T09:52:52 WARNING api High latency detected latency=197ms
+2026-08-09T09:52:56 ERROR api Timeout connecting to Redis
+2026-08-09T09:39:45 ERROR api Timeout connecting to Redis
+2026-08-09T09:39:48 ERROR worker Failed to process job job_id=job-5331
+2026-08-09T09:53:08 DEBUG api Cache lookup completed key=user:42311
+2026-08-09T09:39:54 ERROR api Timeout connecting to Redis
+2026-08-09T09:39:57 DEBUG api Cache lookup completed key=user:49008
+2026-08-09T09:40:00 ERROR api Upstream service returned status=503
+2026-08-09T09:26:42 ERROR api Upstream service returned status=503
+2026-08-09T09:53:28 WARNING api High latency detected latency=511ms
+2026-08-09T09:40:09 ERROR api Timeout connecting to Redis
+2026-08-09T09:40:12 DEBUG worker Queue depth=36
+2026-08-09T09:53:40 WARNING worker Queue depth above threshold depth=93
+2026-08-09T09:26:52 DEBUG worker Queue depth=15
+2026-08-09T09:40:21 ERROR api Upstream service returned status=503
+2026-08-09T09:13:28 WARNING api High latency detected latency=472ms
+2026-08-09T09:40:27 ERROR api Upstream service returned status=503
+2026-08-09T09:54:00 DEBUG api Cache lookup completed key=user:36485
+2026-08-09T09:40:33 ERROR api Timeout connecting to Redis
+2026-08-09T09:40:36 INFO worker Job completed job_id=job-2789 duration=1310ms
+2026-08-09T09:27:06 DEBUG api Cache lookup completed key=user:16653
+2026-08-09T09:27:08 ERROR worker Failed to process job job_id=job-4814
+2026-08-09T09:13:35 INFO api Request completed status=201 latency=443ms
+2026-08-09T09:40:48 ERROR api Upstream service returned status=503
+2026-08-09T09:54:28 INFO api Request completed status=201 latency=717ms
+2026-08-09T09:27:16 INFO api Request completed status=200 latency=583ms
+2026-08-09T09:27:18 WARNING worker Queue depth above threshold depth=126
+2026-08-09T09:54:40 ERROR worker Failed to process job job_id=job-4267
+2026-08-09T09:41:03 WARNING api High latency detected latency=312ms
+2026-08-09T09:13:42 INFO api Request completed status=201 latency=687ms
+2026-08-09T09:27:26 ERROR api Timeout connecting to Redis
+2026-08-09T09:13:44 INFO worker Job completed job_id=job-7846 duration=410ms
+2026-08-09T09:13:45 WARNING worker Queue depth above threshold depth=131
+2026-08-09T09:27:32 ERROR api Upstream service returned status=503
+2026-08-09T09:41:21 INFO api Request completed status=200 latency=29ms
+2026-08-09T09:41:24 ERROR api Database connection failed
+2026-08-09T09:13:49 WARNING api High latency detected latency=311ms
+2026-08-09T09:55:20 ERROR worker Failed to process job job_id=job-9901
+2026-08-09T09:55:24 INFO worker Job completed job_id=job-9261 duration=1008ms
+2026-08-09T09:41:36 DEBUG api Cache lookup completed key=user:24764
+2026-08-09T09:41:39 INFO worker Job completed job_id=job-8518 duration=1377ms
+2026-08-09T09:41:42 ERROR api Upstream service returned status=503
+2026-08-09T09:27:50 INFO api Request completed status=200 latency=774ms
+2026-08-09T09:41:48 DEBUG worker Queue depth=150
+2026-08-09T09:27:54 INFO worker Job completed job_id=job-7643 duration=925ms
+2026-08-09T09:41:54 INFO api Request completed status=201 latency=430ms
+2026-08-09T09:13:59 INFO worker Job completed job_id=job-3303 duration=1027ms
+2026-08-09T09:42:00 DEBUG api Cache lookup completed key=user:10895
+2026-08-09T09:42:03 WARNING worker Queue depth above threshold depth=65
+2026-08-09T09:56:08 DEBUG worker Queue depth=89
+2026-08-09T09:42:09 ERROR api Database connection failed
+2026-08-09T09:14:04 DEBUG worker Queue depth=97
+2026-08-09T09:28:10 INFO api Request completed status=200 latency=703ms
+2026-08-09T09:14:06 ERROR api Database connection failed
+2026-08-09T09:42:21 INFO worker Job completed job_id=job-7642 duration=1455ms
+2026-08-09T09:42:24 ERROR api Upstream service returned status=503
+2026-08-09T09:14:09 ERROR worker Failed to process job job_id=job-5833
+2026-08-09T09:42:30 ERROR api Database connection failed
+2026-08-09T09:28:22 DEBUG api Cache lookup completed key=user:27507
+2026-08-09T09:56:48 INFO worker Job completed job_id=job-8454 duration=1290ms
+2026-08-09T09:42:39 WARNING worker Queue depth above threshold depth=145
+2026-08-09T09:56:56 ERROR api Timeout connecting to Redis
+2026-08-09T09:28:30 DEBUG api Cache lookup completed key=user:99173
+2026-08-09T09:14:16 ERROR api Timeout connecting to Redis
+2026-08-09T09:57:08 ERROR api Timeout connecting to Redis
+2026-08-09T09:42:54 INFO api Request completed status=201 latency=597ms
+2026-08-09T09:14:19 INFO api Request completed status=200 latency=868ms
+2026-08-09T09:28:40 ERROR api Database connection failed
+2026-08-09T09:28:42 INFO worker Job completed job_id=job-6375 duration=1115ms
+2026-08-09T09:57:28 INFO api Request completed status=201 latency=716ms
+2026-08-09T09:28:46 ERROR api Upstream service returned status=503
+2026-08-09T09:57:36 INFO api Request completed status=201 latency=542ms
+2026-08-09T09:57:40 INFO api Request completed status=200 latency=484ms
+2026-08-09T09:28:52 ERROR api Timeout connecting to Redis
+2026-08-09T09:57:48 ERROR api Database connection failed
+2026-08-09T09:14:28 ERROR api Timeout connecting to Redis
+2026-08-09T09:57:56 ERROR worker Failed to process job job_id=job-6049
+2026-08-09T09:14:30 WARNING worker Queue depth above threshold depth=70
+2026-08-09T09:14:31 ERROR api Upstream service returned status=503
+2026-08-09T09:29:04 ERROR api Database connection failed
+2026-08-09T09:14:33 INFO api Request completed status=200 latency=453ms
+2026-08-09T09:43:42 ERROR api Upstream service returned status=503
+2026-08-09T09:14:35 ERROR api Timeout connecting to Redis
+2026-08-09T09:14:36 INFO api Request completed status=201 latency=503ms
+2026-08-09T09:14:37 DEBUG worker Queue depth=109
+2026-08-09T09:29:16 INFO worker Job completed job_id=job-7887 duration=816ms
+2026-08-09T09:58:36 ERROR api Database connection failed
+2026-08-09T09:58:40 WARNING worker Queue depth above threshold depth=25
+2026-08-09T09:29:22 ERROR worker Failed to process job job_id=job-6697
+2026-08-09T09:14:42 INFO worker Job completed job_id=job-9802 duration=854ms
+2026-08-09T09:29:26 ERROR api Upstream service returned status=503
+2026-08-09T09:29:28 INFO api Request completed status=200 latency=794ms
+2026-08-09T09:14:45 DEBUG worker Queue depth=123
+2026-08-09T09:59:04 ERROR api Timeout connecting to Redis
+2026-08-09T09:59:08 DEBUG api Cache lookup completed key=user:42441
+ERROR
+2026-08-09T09:44:27 INFO worker Job completed job_id=job-5516 duration=436ms
+2026-08-09T09:14:50 INFO api Request completed status=200 latency=848ms
+2026-08-09T09:59:24 ERROR api Database connection failed
+2026-08-09T09:14:52 DEBUG api Cache lookup completed key=user:37011
+2026-08-09T09:14:53 INFO api Request completed status=201 latency=628ms
+2026-08-09T09:14:54 ERROR api Database connection failed
+2026-08-09T09:14:55 DEBUG api Cache lookup completed key=user:15798
+2026-08-09T09:59:44 ERROR api Database connection failed
+2026-08-09T09:29:54 ERROR api Timeout connecting to Redis
+2026-08-09T09:29:56 INFO api Request completed status=200 latency=163ms
+2026-08-09T09:44:57 DEBUG api Cache lookup completed key=user:85511
+2026-08-09T09:45:00 ERROR api Database connection failed
+2026-08-09T09:45:03 DEBUG api Cache lookup completed key=user:49552
+2026-08-09T09:30:04 ERROR worker Failed to process job job_id=job-9540
+2026-08-09T09:30:06 WARNING worker Queue depth above threshold depth=81
+2026-08-09T09:45:12 INFO api Request completed status=200 latency=590ms
+2026-08-09T09:30:10 ERROR worker Failed to process job job_id=job-7999
+2026-08-09T10:00:24 INFO api Request completed status=200 latency=372ms
+2026-08-09T10:00:28 ERROR api Timeout connecting to Redis
+2026-08-09T09:45:24 ERROR api Upstream service returned status=503
+2026-08-09T10:00:36 WARNING worker Queue depth above threshold depth=43
+2026-08-09T09:45:30 WARNING worker Queue depth above threshold depth=52
+2026-08-09T10:00:44 DEBUG api Cache lookup completed key=user:39536
+2026-08-09T09:45:36 ERROR api Upstream service returned status=503
+2026-08-09T09:30:26 ERROR api Database connection failed
+2026-08-09T09:15:14 ERROR api Timeout connecting to Redis
+2026-08-09T10:01:00 WARNING worker Queue depth above threshold depth=147
+2026-08-09T09:30:32 WARNING worker Queue depth above threshold depth=67
+2026-08-09T09:45:51 DEBUG api Cache lookup completed key=user:53288
+2026-08-09T09:15:18 ERROR api Database connection failed
+2026-08-09T09:45:57 INFO api Request completed status=201 latency=568ms
+2026-08-09T09:30:40 INFO api Request completed status=200 latency=294ms
+2026-08-09T10:01:24 ERROR worker Failed to process job job_id=job-1647
+2026-08-09T09:15:22 DEBUG api Cache lookup completed key=user:87015
+2026-08-09T09:30:46 ERROR api Database connection failed
+2026-08-09T09:30:48 WARNING api High latency detected latency=330ms
+2026-08-09T09:15:25 DEBUG api Cache lookup completed key=user:34906
+2026-08-09T09:15:26 ERROR api Upstream service returned status=503
+2026-08-09T10:01:48 DEBUG api Cache lookup completed key=user:89220
+2026-08-09T09:30:56 WARNING worker Queue depth above threshold depth=66
+2026-08-09T09:46:27 DEBUG worker Queue depth=102
+2026-08-09T10:02:00 ERROR api Timeout connecting to Redis
+2026-08-09T09:46:33 DEBUG worker Queue depth=71
+2026-08-09T09:46:36 ERROR api Timeout connecting to Redis
+2026-08-09T10:02:12 ERROR api Database connection failed
+2026-08-09T09:15:34 ERROR api Upstream service returned status=503
+2026-08-09T10:02:20 WARNING api High latency detected latency=228ms
+2026-08-09T09:46:48 WARNING api High latency detected latency=443ms
+2026-08-09T09:15:37 ERROR api Database connection failed
+2026-08-09T09:31:16 ERROR api Upstream service returned status=503
+2026-08-09T09:31:18 INFO api Request completed status=200 latency=287ms
+2026-08-09T10:02:40 DEBUG worker Queue depth=44
+2026-08-09T09:31:22 WARNING api High latency detected latency=255ms
+2026-08-09T10:02:48 ERROR api Database connection failed
+2026-08-09T09:31:26 ERROR api Database connection failed
+2026-08-09T09:47:12 DEBUG worker Queue depth=130
+2026-08-09T10:03:00 ERROR api Database connection failed
+2026-08-09T09:31:32 ERROR api Upstream service returned status=503
+2026-08-09T09:47:21 INFO worker Job completed job_id=job-3293 duration=1169ms
+2026-08-09T10:03:12 INFO worker Job completed job_id=job-9882 duration=1364ms
+2026-08-09T09:15:49 ERROR api Timeout connecting to Redis
+2026-08-09T09:15:50 INFO api Request completed status=201 latency=857ms
+2026-08-09T09:15:51 INFO api Request completed status=200 latency=442ms
+2026-08-09T09:31:44 ERROR worker Failed to process job job_id=job-4791
+2026-08-09T09:15:53 ERROR api Upstream service returned status=503
+2026-08-09T09:31:48 INFO api Request completed status=200 latency=243ms
+2026-08-09T10:03:40 WARNING api High latency detected latency=81ms
+2026-08-09T10:03:44 ERROR worker Failed to process job job_id=job-8993
+2026-08-09T09:15:57 INFO api Request completed status=200 latency=564ms
+2026-08-09T10:03:52 INFO api Request completed status=200 latency=37ms
+2026-08-09T09:47:57 ERROR api Timeout connecting to Redis
+2026-08-09T09:48:00 INFO api Request completed status=200 latency=534ms
+2026-08-09T10:04:04 INFO worker Job completed job_id=job-2753 duration=247ms
+2026-08-09T09:32:04 DEBUG api Cache lookup completed key=user:35156
+2026-08-09T09:48:09 WARNING api High latency detected latency=293ms
+2026-08-09T10:04:16 INFO api Request completed status=201 latency=402ms
+2026-08-09T10:04:20 ERROR api Database connection failed
+2026-08-09T09:32:12 ERROR api Upstream service returned status=503
+2026-08-09T09:32:14 DEBUG worker Queue depth=25
+2026-08-09T09:16:08 INFO api Request completed status=201 latency=435ms
+2026-08-09T10:04:36 WARNING worker Queue depth above threshold depth=146
+2026-08-09T10:04:40 INFO api Request completed status=200 latency=672ms
+2026-08-09T09:16:11 ERROR api Upstream service returned status=503
+2026-08-09T09:32:24 INFO api Request completed status=201 latency=531ms
+2026-08-09T10:04:52 ERROR worker Failed to process job job_id=job-6427
+2026-08-09T09:16:14 ERROR api Timeout connecting to Redis
+2026-08-09T09:16:15 DEBUG api Cache lookup completed key=user:37710
+2026-08-09T10:05:04 DEBUG worker Queue depth=16
+2026-08-09T09:16:17 ERROR worker Failed to process job job_id=job-5593
+2026-08-09T09:16:18 INFO worker Job completed job_id=job-6152 duration=82ms
+2026-08-09T09:32:38 ERROR api Database connection failed
+2026-08-09T09:32:40 ERROR api Upstream service returned status=503
+2026-08-09T10:05:24 INFO api Request completed status=201 latency=326ms
+2026-08-09T09:32:44 ERROR api Database connection failed
+2026-08-09T09:32:46 ERROR api Database connection failed
+2026-08-09T10:05:36 ERROR worker Failed to process job job_id=job-9856
+2026-08-09T09:49:15 WARNING worker Queue depth above threshold depth=40
+2026-08-09T09:16:26 ERROR api Timeout connecting to Redis
+2026-08-09T09:49:21 INFO api Request completed status=200 latency=120ms
+2026-08-09T10:05:52 DEBUG api Cache lookup completed key=user:19963
+2026-08-09T09:49:27 ERROR api Database connection failed
+2026-08-09T10:06:00 WARNING api High latency detected latency=50ms
+2026-08-09T09:49:33 ERROR api Database connection failed
+2026-08-09T10:06:08 DEBUG api Cache lookup completed key=user:56636
+2026-08-09T10:06:12 WARNING worker Queue depth above threshold depth=52
+2026-08-09T10:06:16 INFO api Request completed status=201 latency=810ms
+2026-08-09T09:49:45 DEBUG api Cache lookup completed key=user:19634
+2026-08-09T09:16:36 DEBUG worker Queue depth=44
+2026-08-09T10:06:28 ERROR api Upstream service returned status=503
+2026-08-09T09:33:16 ERROR api Upstream service returned status=503
+2026-08-09T10:06:36 WARNING api High latency detected latency=389ms
