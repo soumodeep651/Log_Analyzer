@@ -1,3 +1,5 @@
+import os 
+
 def analyze_log(file_path):
     count = {}
     errors = 0
@@ -30,23 +32,29 @@ def analyze_log(file_path):
         "errors": errors,
         "error_summary": count
     }
- 
-file_path = "production.log"  # Replace with the actual path to your log file
-analyzed_log = analyze_log(file_path)
-error_summary = analyzed_log["error_summary"]
-error_list = list(error_summary.items())
 
-for i in range(0, len(error_list)):
-    for j in range(0, len(error_list)- i -1):
-       if error_list[j][1] < error_list[j+1][1]:
-           error_list[j], error_list[j+1] = error_list[j+1], error_list[j]
+directory = "path"
+content_list = os.listdir(directory)
+result = {}
+total_logs = 0
+total_errors = 0
+
+for items in content_list:
+    if items.endswith(".log"):
+        full_path = os.path.join(directory,items)
+        analyze = analyze_log(full_path)
+        total_logs += analyze["total_lines"]
+        total_errors += analyze["errors"]
         
-
-print("Total lines:", analyzed_log["total_lines"])
-print("Errors:", analyzed_log["errors"])
-print("Error summary:")
-
-for message, count in error_list[:3]:
-    print(f"  {message}: {count}")
- 
-
+        for message, number in analyze["error_summary"].items():
+            if message in result:
+                result[message] += number
+            else:
+                result[message] = number    
+print("Multi Log Analysis")
+print("===============")            
+print("Total lines:", total_logs)
+print("Total errors:" , total_errors)
+print("Total Error Summary:\n")
+for message, value in result.items():
+    print(f"{message}: {value}")
